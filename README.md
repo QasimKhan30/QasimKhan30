@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @QasimKhan30
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Formal Methods and Models, Computer Systems and Programs, and Digital Electronics
 - 📫 How to reach me:
                      
                      LinkedIn: linkedin.com/in/qasim-khan-/
